@@ -2,8 +2,8 @@
 
 /**
 * main - prints the sum of even fibonacci numbers
-* Less than 4000000.
-* Return: Nothing
+* less than 4000000.
+* Return: Nothing!
 */
 int main(void)
 {
